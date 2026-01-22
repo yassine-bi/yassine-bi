@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yassine Aoun</h1>
-<h3 align="center">💻 I'm a passionate software architecture engineer with a focus on DevOps and backend development. I’m currently pursuing my engineering degree at Esprit, specializing in software architecture and technologies. 
-  ✨Feel free to connect with me and explore my repositories. I'm always open to collaborating on exciting projects!</h3>
+<h3 align="center">I'm a passionate software architecture engineer with a focus on DevOps and backend development. I’m currently pursuing my engineering degree at Esprit, specializing in software architecture and technologies. 
+  Feel free to connect with me and explore my repositories. I'm always open to collaborating on exciting projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-bi&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-bi" /> </p>
 
